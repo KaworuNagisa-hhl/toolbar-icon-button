@@ -1,0 +1,12 @@
+{
+  "module": {
+    "name": "toolbar_icon_button_test",
+    "type": "feature",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false
+  }
+}

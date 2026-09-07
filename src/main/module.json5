@@ -1,0 +1,9 @@
+{
+  "module": {
+    "name": "toolbar_icon_button",
+    "type": "har",
+    "deviceTypes": [
+      "default"
+    ]
+  }
+}
