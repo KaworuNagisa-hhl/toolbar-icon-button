@@ -14,16 +14,6 @@
 ohpm install toolbar-icon-button
 ```
 
-本地源码依赖：
-
-```json5
-{
-  "dependencies": {
-    "toolbar-icon-button": "file:../toolbar-icon-button",
-    "theme": "file:../theme"
-  }
-}
-```
 
 ## 正常使用样式
 
