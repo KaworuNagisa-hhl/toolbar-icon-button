@@ -9,16 +9,16 @@
   "license": "Apache-2.0",
   "repository": "https://github.com/KaworuNagisa-hhl/toolbar-icon-button",
   "keywords": [
-    "OpenHarmony",
-    "HarmonyOS",
-    "ArkUI",
-    "like-ios",
-    "ios-like",
-    "kaworunagisa_hhl",
+    "openharmony",
+    "harmonyos",
+    "arkui",
+    "ui",
+    "component",
     "toolbar",
     "icon",
     "button",
-    "action"
+    "action",
+    "control"
   ],
   "dependencies": {
     "@kaworunagisa_hhl/theme": "file:../theme"
