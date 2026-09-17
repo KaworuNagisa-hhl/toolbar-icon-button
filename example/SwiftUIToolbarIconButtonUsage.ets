@@ -1,4 +1,4 @@
-import { SwiftUIToolbarIconButton } from '@kaworunagisa_hhl/toolbar-icon-button'
+import { SwiftUIToolbarIconButton } from 'toolbar-icon-button'
 
 @Component
 export struct SwiftUIToolbarIconButtonUsage {

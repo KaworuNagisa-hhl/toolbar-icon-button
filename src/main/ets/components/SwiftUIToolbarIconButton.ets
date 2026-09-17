@@ -1,4 +1,4 @@
-import { getSwiftUIGlassMaterial, getSwiftUIPalette, swiftUIColorWithOpacity, SwiftUIComponentConfig, SwiftUITone } from '@kaworunagisa_hhl/theme'
+import { getSwiftUIGlassMaterial, getSwiftUIPalette, swiftUIColorWithOpacity, SwiftUIComponentConfig, SwiftUITone } from 'theme'
 
 @Component
 export struct SwiftUIToolbarIconButton {
